@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nadi-ra
-- 🌱 I’m currently learning front-end web developement. 
+- 🌱
 - 📫 
 
 <!---
