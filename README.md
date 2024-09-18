@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadi-ra
 - 🌱 I’m currently learning front-end web developement. 
-- 📫 nadiranono183@gmail.com
+- 📫 
 
 <!---
 nadi-ra/nadi-ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
